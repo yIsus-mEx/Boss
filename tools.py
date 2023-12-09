@@ -40,6 +40,6 @@ def write_cache(contenido):
     with open("toys/cachedList.txt", "wb") as cachedlist:
         cachedlist.write(contenido.encode('latin1'))
         cachedlist.close()
-        print("scraper : INFO : no se han escrito los canales")
+        print("scraper : INFO : cachedList se ha escrito correctamente")
 
 
