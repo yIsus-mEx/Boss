@@ -8,9 +8,11 @@ def importYisus():
         response.raise_for_status()
         yisus_dict = response.json()
         print('importYisus: OK: yisus se ha importado')
+        '''
         with open('yisusBase', 'w', encoding='utf-8') as json_file:
             json.dump(yisus_dict, json_file, indent=2)
         return yisus_dict
+        '''
 
     except requests.exceptions.RequestException as e:
         print("importYisus : ERROR :", e)
