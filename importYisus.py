@@ -7,7 +7,7 @@ def importYisus():
         response = requests.get('https://pastebin.com/raw/36jGppfm')
         response.raise_for_status()
         yisus_dict = response.json()
-        print('importYisus: INFO: yisus se ha importado')
+        print('importYisus: OK: yisus se ha importado')
         with open('yisusBase', 'w', encoding='latin1') as json_file:
             json.dump(yisus_dict, json_file, indent=2)
         return yisus_dict
