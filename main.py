@@ -21,7 +21,7 @@ def read_cached_elcano():
     with open('toys/cachedList.txt', 'r') as cachedlist:
         contenido = cachedlist.read()
         cachedlist.close()
-        print("read_cached_elcano: INFO: returning elcano cacheado")
+        print("read_cached_elcano: OK: returning elcano cacheado")
         return (contenido)
 
 
