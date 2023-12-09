@@ -76,7 +76,7 @@ def transformYisus(elcano_dict):
                                 station['info'] = info
                                 break
 
-        with open('af1ciona2.txt', 'w') as json_file:
+        with open('af1.txt', 'w') as json_file:
             json.dump(yisus_json, json_file, indent=4)
 
 
