@@ -13,7 +13,7 @@ def scraper():
                 grab = sess.get('https://elcano.top')
                 print(grab)
     except:
-        print("scraper : INFO : no se puede acceder a elcano")
+        print("scraper : ERROR : no se puede acceder a elcano")
         sys.exit(0)
 
     soup = BeautifulSoup(grab.text, 'html.parser')
@@ -32,7 +32,7 @@ def scraper():
         print("scraper : OK : channels retrieved")
         write_cache(contenido)
     else:
-        print("scraper : INFO : could not access elcano")
+        print("scraper : ERROR : could not access elcano")
     
 
 def write_cache(contenido):
@@ -40,6 +40,6 @@ def write_cache(contenido):
     with open("toys/cachedList.txt", "wb") as cachedlist:
         cachedlist.write(contenido.encode('latin1'))
         cachedlist.close()
-        print("scraper : INFO : cachedList se ha escrito correctamente")
+        print("scraper : OK : cachedList se ha escrito correctamente")
 
 
