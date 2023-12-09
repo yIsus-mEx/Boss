@@ -76,8 +76,11 @@ def transformYisus(elcano_dict):
                                 station['info'] = info
                                 break
 
-        with open('af1.txt', 'w', encoding='latin1') as json_file:
+        with open('af1.txt', 'w', encoding='utf-8') as json_file:
             json.dump(yisus_json, json_file, indent=4)
+            print('transformYisus: OK: yisus se ha exportado correctamente')
+            json_file.close()
+
 
 
 
