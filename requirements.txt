@@ -1,3 +1,7 @@
 datetime
 beautifulsoup4==4.11.1
 requests==2.25.1
+pyYAML==6.0.1
+torpy==1.1.6
+
+
