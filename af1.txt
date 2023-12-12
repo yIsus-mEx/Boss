@@ -424,9 +424,9 @@
                 },
                 {
                     "name": "M. Liga de Campeones 6 [1080]",
-                    "info": "b52d",
+                    "info": "d47e",
                     "image": "https://i.postimg.cc/CLNbrz5x/Liga-de-Campeones-6-por-Movistar-Plus-2022-logo.png",
-                    "url": "acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d"
+                    "url": "acestream://64a9353032efa2acb093d0bb86481f20f482d47e"
                 },
                 {
                     "name": "M. Liga de Campeones 7 [1080]",
