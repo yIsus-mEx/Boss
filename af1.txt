@@ -188,9 +188,9 @@
                 },
                 {
                     "name": "DAZN LaLiga 2 [720][Multiaudio]",
-                    "info": "7a79",
+                    "info": "0b47",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79"
+                    "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
                 },
                 {
                     "name": "DAZN LaLiga 3 [1080][Multiaudio]",
