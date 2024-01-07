@@ -7,13 +7,6 @@
     "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": [
         {
-            "name": "PLUTO TV",
-            "image": "https://i.postimg.cc/d19c10Dk/pluto-tv-new.png",
-            "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/PlutoTV",
-            "info": "",
-            "import": false
-        },
-        {
             "name": "TDT CHANNELS",
             "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
             "url": "https://pastebin.com/UWXsWLF9",
