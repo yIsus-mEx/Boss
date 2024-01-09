@@ -7,6 +7,13 @@
     "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": [
         {
+            "name": "SUPERCOPA ESPA\u00d1A 2024",
+            "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
+            "url": "",
+            "info": "",
+            "import": false
+        },
+        {
             "name": "TDT CHANNELS",
             "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
             "url": "https://pastebin.com/UWXsWLF9",
