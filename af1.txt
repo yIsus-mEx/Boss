@@ -14,12 +14,18 @@
             "stations": [
                 {
                     "name": "SUPERCOPA 1",
+                    "info": "528d",
+                    "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
+                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
+                },
+                {
+                    "name": "SUPERCOPA 2",
                     "info": "75c0",
                     "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
                     "url": "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
                 },
                 {
-                    "name": "SUPERCOPA 2",
+                    "name": "SUPERCOPA 3",
                     "info": "2280",
                     "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
                     "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
