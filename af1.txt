@@ -53,9 +53,9 @@
             "stations": [
                 {
                     "name": "LA 1 [1080][Multiaudio]",
-                    "info": "4cd3",
+                    "info": "0b47",
                     "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                    "url": "acestream://fa79d8cea5689da7a69a5afd833690f4aa544cd3"
+                    "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
                 },
                 {
                     "name": "LA 1 UHD [1080][Multiaudio]",
