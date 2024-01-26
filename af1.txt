@@ -1143,7 +1143,7 @@
             "info": "",
             "stations": [
                 {
-                    "name": "Nba Tv (US)",
+                    "name": "Nba TV (US)",
                     "info": "ed95",
                     "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
                     "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
