@@ -7,38 +7,6 @@
     "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": [
         {
-            "name": "SUPERCOPA ESPA\u00d1A 2024",
-            "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
-            "imageScale": "",
-            "info": "",
-            "stations": [
-                {
-                    "name": "SUPERCOPA 1 (1080)",
-                    "info": "528d",
-                    "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
-                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
-                },
-                {
-                    "name": "SUPERCOPA 2 (Multiaudio)",
-                    "info": "d281",
-                    "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
-                    "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
-                },
-                {
-                    "name": "SUPERCOPA 3 (1080)",
-                    "info": "443d",
-                    "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
-                    "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
-                },
-                {
-                    "name": "SUPERCOPA 4 (720)",
-                    "info": "7fa0",
-                    "image": "https://i.postimg.cc/RVpss9Y1/Super-Copa-Espa-a-2-new.png",
-                    "url": "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0"
-                }
-            ]
-        },
-        {
             "name": "TDT CHANNELS",
             "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
             "url": "https://pastebin.com/UWXsWLF9",
@@ -312,6 +280,44 @@
                     "info": "74a5",
                     "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
                     "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
+                }
+            ]
+        },
+        {
+            "name": "COPA DEL REY ESPA\u00d1A 2024",
+            "image": "https://i.postimg.cc/7hj4ytyq/Copa_Del_Rey_2024.jpg",
+            "imageScale": "",
+            "info": "",
+            "stations": [
+                {
+                    "name": "COPA DEL REY 1 (1080)",
+                    "info": "528d",
+                    "image": "https://i.postimg.cc/7hj4ytyq/Copa_Del_Rey_2024.jpg",
+                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
+                },
+                {
+                    "name": "COPA DEL REY PLUS (1080)",
+                    "info": "496e",
+                    "image": "https://i.postimg.cc/7hj4ytyq/Copa_Del_Rey_2024.jpg",
+                    "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+                },
+                {
+                    "name": "COPA DEL REY (1080)(MULTIAUDIO)",
+                    "info": "d281",
+                    "image": "https://i.postimg.cc/7hj4ytyq/Copa_Del_Rey_2024.jpg",
+                    "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
+                },
+                {
+                    "name": "COPA DEL REY (1080)",
+                    "info": "443d",
+                    "image": "https://i.postimg.cc/7hj4ytyq/Copa_Del_Rey_2024.jpg",
+                    "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
+                },
+                {
+                    "name": "COPA DEL REY (720)",
+                    "info": "1a03",
+                    "image": "https://i.postimg.cc/7hj4ytyq/Copa_Del_Rey_2024.jpg",
+                    "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
                 }
             ]
         },
