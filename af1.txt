@@ -285,38 +285,38 @@
         },
         {
             "name": "COPA DEL REY ESPA\u00d1A 2024",
-            "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+            "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
             "imageScale": "",
             "info": "",
             "stations": [
                 {
                     "name": "COPA DEL REY 1 (1080)",
                     "info": "528d",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
                 },
                 {
                     "name": "COPA DEL REY PLUS (1080)",
                     "info": "496e",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
                 },
                 {
                     "name": "COPA DEL REY (1080)(MULTIAUDIO)",
                     "info": "d281",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
                 },
                 {
                     "name": "COPA DEL REY (1080)",
                     "info": "443d",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
                 },
                 {
                     "name": "COPA DEL REY (720)",
                     "info": "1a03",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
                 }
             ]
@@ -1143,7 +1143,7 @@
             "info": "",
             "stations": [
                 {
-                    "name": "Nba TV (US)",
+                    "name": "Nba Tv (US)",
                     "info": "ed95",
                     "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
                     "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
