@@ -118,7 +118,7 @@
             ]
         },
         {
-            "name": "DAZN LIGA F",
+            "name": "DAZN LIGA FINETWORK",
             "image": "https://i.postimg.cc/GtRFXhDX/La-Liga-F-new.png",
             "imageScale": "",
             "info": "",
