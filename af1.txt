@@ -125,25 +125,25 @@
             "stations": [
                 {
                     "name": "DAZN LIGA F 1",
-                    "info": "0710",
-                    "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
-                    "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
-                },
-                {
-                    "name": "DAZN LIGA F 2",
-                    "info": "496e",
+                    "info": "CANAL 1",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
                     "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
                 },
                 {
+                    "name": "DAZN LIGA F 2",
+                    "info": "CANAL 2",
+                    "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
+                    "url": "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b"
+                },
+                {
                     "name": "DAZN LIGA F 3",
-                    "info": "5e51",
+                    "info": "CANAL 3",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
                     "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
                 },
                 {
                     "name": "DAZN LIGA F 4",
-                    "info": "867d",
+                    "info": "CANAL 4",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
                     "url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
                 }
