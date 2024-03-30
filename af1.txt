@@ -351,9 +351,9 @@
                 },
                 {
                     "name": "LaLiga HyperMotion 3",
-                    "info": "0f41",
+                    "info": "2c2d",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41"
+                    "url": "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d"
                 },
                 {
                     "name": "LaLiga HyperMotion 4",
