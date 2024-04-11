@@ -51,9 +51,9 @@
                 },
                 {
                     "name": "M GOLF 1 [1080]",
-                    "info": "8122",
+                    "info": "2ae4",
                     "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
-                    "url": "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122"
+                    "url": "acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4"
                 },
                 {
                     "name": "M GOLF 2 [1080]",
