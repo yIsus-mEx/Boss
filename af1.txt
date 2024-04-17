@@ -118,7 +118,7 @@
             ]
         },
         {
-            "name": "DAZN LIGA FINETWORK",
+            "name": "DAZN LIGA FEMENINA",
             "image": "https://i.postimg.cc/GtRFXhDX/La-Liga-F-new.png",
             "imageScale": "",
             "info": "",
@@ -202,12 +202,6 @@
                     "info": "edf7",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
                     "url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7"
-                },
-                {
-                    "name": "M+ LaLiga Tv [UHD]",
-                    "info": "05cf",
-                    "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-                    "url": "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
                 },
                 {
                     "name": "M+ LaLiga Tv [1080]",
@@ -394,12 +388,6 @@
             "info": "",
             "stations": [
                 {
-                    "name": "M. Liga de Campeones [1080]",
-                    "info": "d0a9",
-                    "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-                    "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
-                },
-                {
                     "name": "M. Liga de Campeones [1080][Multiaudio]",
                     "info": "b51c",
                     "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
@@ -410,6 +398,12 @@
                     "info": "e833",
                     "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
                     "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
+                },
+                {
+                    "name": "M. Liga de Campeones [1080]",
+                    "info": "d0a9",
+                    "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+                    "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
                 },
                 {
                     "name": "M. Liga de Campeones [720]",
@@ -497,6 +491,12 @@
                 },
                 {
                     "name": "M. Liga de Campeones 13 SD",
+                    "info": "053b",
+                    "image": "https://i.postimg.cc/SQ2B3DHp/Liga-de-Campeones-11-por-Movistar-Plus-2022-logo.png",
+                    "url": "acestream://60296c246e3596f334903fefd48cfaa724a5053b"
+                },
+                {
+                    "name": "M. Liga de Campeones 17 SD",
                     "info": "053b",
                     "image": "https://i.postimg.cc/SQ2B3DHp/Liga-de-Campeones-11-por-Movistar-Plus-2022-logo.png",
                     "url": "acestream://60296c246e3596f334903fefd48cfaa724a5053b"
