@@ -8,10 +8,7 @@
     "groups": [
         {
             "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-            "image": "https://images3.alphacoders.com/595/595865.jpg",
-            "url": "",
-            "info": "",
-            "import": false
+            "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif"
         },
         {
             "name": "TDT CHANNELS",
@@ -26,13 +23,6 @@
             "imageScale": "",
             "info": "",
             "stations": [
-                {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
                 {
                     "name": "LA 1 [1080][Multiaudio]",
                     "info": "0b47",
@@ -138,13 +128,6 @@
             "info": "",
             "stations": [
                 {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
-                {
                     "name": "DAZN LIGA F 1",
                     "info": "CANAL 1",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
@@ -176,13 +159,6 @@
             "imageScale": "",
             "info": "",
             "stations": [
-                {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
                 {
                     "name": "DAZN LaLiga [1080][Multiaudio]",
                     "info": "290a",
@@ -292,12 +268,6 @@
                     "url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
                 },
                 {
-                    "name": "LaLiga Tv Bar [1080]",
-                    "info": "2280",
-                    "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-                    "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
-                },
-                {
                     "name": "LaLiga Tv Bar [720]",
                     "info": "74a5",
                     "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
@@ -311,13 +281,6 @@
             "imageScale": "",
             "info": "",
             "stations": [
-                {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
                 {
                     "name": "COPA DEL REY 1 (1080)",
                     "info": "528d",
@@ -354,13 +317,6 @@
             "name": "LA LIGA HYPERMOTION",
             "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
             "stations": [
-                {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
                 {
                     "name": "LaLiga HyperMotion [1080][Multiaudio]",
                     "info": "94cf",
@@ -429,13 +385,6 @@
             "imageScale": "",
             "info": "",
             "stations": [
-                {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
                 {
                     "name": "M. Liga de Campeones [1080][Multiaudio]",
                     "info": "b51c",
@@ -558,13 +507,6 @@
             "imageScale": "",
             "info": "",
             "stations": [
-                {
-                    "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
-                    "image": "https://images3.alphacoders.com/595/595865.jpg",
-                    "url": "",
-                    "info": "",
-                    "import": false
-                },
                 {
                     "name": "M Deportes [1080]",
                     "info": "c112",
