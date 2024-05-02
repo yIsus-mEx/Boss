@@ -4,7 +4,7 @@
     "url": "https://pastebin.com/36jGppfm",
     "image": "https://images3.alphacoders.com/595/595865.jpg",
     "telegram": "Lista_AF1CIONADOS",
-    "info": "Lista recopilada de Ids. bY. Lukas",
+    "info": "Lista recopilada de Ids. bY. LuCas",
     "groups": [
         {
             "name": "TDT CHANNELS",
