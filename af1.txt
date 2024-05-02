@@ -7,6 +7,10 @@
     "info": "Lista recopilada de Ids. bY. LuCas",
     "groups": [
         {
+            "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
+            "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif"
+        },
+        {
             "name": "TDT CHANNELS",
             "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
             "url": "https://pastebin.com/UWXsWLF9",
@@ -51,9 +55,9 @@
                 },
                 {
                     "name": "M GOLF 1 [1080]",
-                    "info": "8122",
+                    "info": "2ae4",
                     "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
-                    "url": "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122"
+                    "url": "acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4"
                 },
                 {
                     "name": "M GOLF 2 [1080]",
@@ -118,32 +122,32 @@
             ]
         },
         {
-            "name": "DAZN LIGA F",
+            "name": "DAZN LIGA FEMENINA",
             "image": "https://i.postimg.cc/GtRFXhDX/La-Liga-F-new.png",
             "imageScale": "",
             "info": "",
             "stations": [
                 {
                     "name": "DAZN LIGA F 1",
-                    "info": "0710",
-                    "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
-                    "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
-                },
-                {
-                    "name": "DAZN LIGA F 2",
-                    "info": "496e",
+                    "info": "CANAL 1",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
                     "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
                 },
                 {
+                    "name": "DAZN LIGA F 2",
+                    "info": "CANAL 2",
+                    "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
+                    "url": "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b"
+                },
+                {
                     "name": "DAZN LIGA F 3",
-                    "info": "5e51",
+                    "info": "CANAL 3",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
                     "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
                 },
                 {
                     "name": "DAZN LIGA F 4",
-                    "info": "867d",
+                    "info": "CANAL 4",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
                     "url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
                 }
@@ -202,12 +206,6 @@
                     "info": "edf7",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
                     "url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7"
-                },
-                {
-                    "name": "M+ LaLiga Tv [UHD]",
-                    "info": "05cf",
-                    "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-                    "url": "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
                 },
                 {
                     "name": "M+ LaLiga Tv [1080]",
@@ -270,12 +268,6 @@
                     "url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
                 },
                 {
-                    "name": "LaLiga Tv Bar [1080]",
-                    "info": "2280",
-                    "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-                    "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
-                },
-                {
                     "name": "LaLiga Tv Bar [720]",
                     "info": "74a5",
                     "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
@@ -285,38 +277,38 @@
         },
         {
             "name": "COPA DEL REY ESPA\u00d1A 2024",
-            "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+            "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
             "imageScale": "",
             "info": "",
             "stations": [
                 {
                     "name": "COPA DEL REY 1 (1080)",
                     "info": "528d",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
                 },
                 {
                     "name": "COPA DEL REY PLUS (1080)",
                     "info": "496e",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
                 },
                 {
                     "name": "COPA DEL REY (1080)(MULTIAUDIO)",
                     "info": "d281",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
                 },
                 {
                     "name": "COPA DEL REY (1080)",
                     "info": "443d",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
                 },
                 {
                     "name": "COPA DEL REY (720)",
                     "info": "1a03",
-                    "image": "https://i.postimg.cc/GhxGk4d7/coparey-new.png",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
                     "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
                 }
             ]
@@ -351,9 +343,9 @@
                 },
                 {
                     "name": "LaLiga HyperMotion 3",
-                    "info": "0f41",
+                    "info": "2c2d",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41"
+                    "url": "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d"
                 },
                 {
                     "name": "LaLiga HyperMotion 4",
@@ -394,12 +386,6 @@
             "info": "",
             "stations": [
                 {
-                    "name": "M. Liga de Campeones [1080]",
-                    "info": "d0a9",
-                    "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
-                    "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
-                },
-                {
                     "name": "M. Liga de Campeones [1080][Multiaudio]",
                     "info": "b51c",
                     "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
@@ -410,6 +396,12 @@
                     "info": "e833",
                     "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
                     "url": "acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833"
+                },
+                {
+                    "name": "M. Liga de Campeones [1080]",
+                    "info": "d0a9",
+                    "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+                    "url": "acestream://1d79a7543d691666135669f89f3541f54e2dd0a9"
                 },
                 {
                     "name": "M. Liga de Campeones [720]",
@@ -497,6 +489,12 @@
                 },
                 {
                     "name": "M. Liga de Campeones 13 SD",
+                    "info": "053b",
+                    "image": "https://i.postimg.cc/SQ2B3DHp/Liga-de-Campeones-11-por-Movistar-Plus-2022-logo.png",
+                    "url": "acestream://60296c246e3596f334903fefd48cfaa724a5053b"
+                },
+                {
+                    "name": "M. Liga de Campeones 17 SD",
                     "info": "053b",
                     "image": "https://i.postimg.cc/SQ2B3DHp/Liga-de-Campeones-11-por-Movistar-Plus-2022-logo.png",
                     "url": "acestream://60296c246e3596f334903fefd48cfaa724a5053b"
@@ -1143,7 +1141,7 @@
             "info": "",
             "stations": [
                 {
-                    "name": "Nba TV (US)",
+                    "name": "Nba Tv (US)",
                     "info": "ed95",
                     "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
                     "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
