@@ -4,8 +4,12 @@
     "url": "https://pastebin.com/36jGppfm",
     "image": "https://images3.alphacoders.com/595/595865.jpg",
     "telegram": "Lista_AF1CIONADOS",
-    "info": "Lista recopilada de Ids. bY. LuCas",
+    "info": "Lista recopilada de Ids. bY. Lukas",
     "groups": [
+        {
+            "name": "\ud83c\udd70\ufe0f\ud83c\udd751\ud83c\udd72\ud83c\udd78\ud83c\udd7e\ufe0f\ud83c\udd7d\ud83c\udd70\ufe0f\ud83c\udd73\ud83c\udd7e\ufe0f\ud83c\udd82",
+            "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif"
+        },
         {
             "name": "TDT CHANNELS",
             "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
