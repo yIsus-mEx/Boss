@@ -301,7 +301,7 @@
                     "name": "M+ LaLiga Tv 6 [1080]",
                     "info": "b51b",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
-                    "url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
+                    "url": "acestream://4d17be5bb07354e2dfc2bdaeec2c19a9907c4d21"
                 },
                 {
                     "name": "LaLiga Tv Bar [720]",
