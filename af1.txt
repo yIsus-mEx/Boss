@@ -190,16 +190,34 @@
                     "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
                 },
                 {
+                    "name": "DAZN LaLiga 3 [1080]",
+                    "info": "a396",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://3d0b2395098452617097896abb38956965b8a396"
+                },
+                {
                     "name": "DAZN LaLiga 3 [1080][Multiaudio]",
                     "info": "ba74",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
                     "url": "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74"
                 },
                 {
+                    "name": "DAZN LaLiga 4 [1080]",
+                    "info": "8689",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acerstream://6e97745e481ee0be3b48720d4bfead7da2f08689"
+                },
+                {
                     "name": "DAZN LaLiga 4 [1080][Multiaudio]",
                     "info": "973e",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
                     "url": "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e"
+                },
+                {
+                    "name": "DAZN LaLiga 5 [1080]",
+                    "info": "a7c9",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://45db6feb1a8da2690a948532efd771992a7ea7c9"
                 },
                 {
                     "name": "DAZN LaLiga 5 [1080][Multiaudio]",
@@ -244,16 +262,34 @@
                     "url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"
                 },
                 {
+                    "name": "M+ LaLiga Tv 3",
+                    "info": "ae71",
+                    "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+                    "url": "acestream://de52318ab15c921d8d5c036c5f33562382b5ae71"
+                },
+                {
                     "name": "M+ LaLiga Tv 3 [1080]",
                     "info": "f929",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://4c4844564313e39a888f593511f299f5ba3cf929"
                 },
                 {
+                    "name": "M+ LaLiga Tv 4",
+                    "info": "7326",
+                    "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+                    "url": "acestream://5c2ee247211b205f64ef1cf90ef5c45408657326"
+                },
+                {
                     "name": "M+ LaLiga Tv 4 [1080]",
                     "info": "a8b0",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0"
+                },
+                {
+                    "name": "M+ LaLiga Tv 5",
+                    "info": "675d",
+                    "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+                    "url": "acestream://c661bee7afd61d487ce085a1667c4f2b91d6675d"
                 },
                 {
                     "name": "M+ LaLiga Tv 5 [1080]",
