@@ -339,39 +339,39 @@
                 },
                 {
                     "name": "LaLiga HyperMotion 3",
-                    "info": "2c2d",
+                    "info": "0a3e",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://424c89c7c0f251051269b578f40d13d192cf2c2d"
+                    "url": "acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e"
                 },
                 {
                     "name": "LaLiga HyperMotion 4",
-                    "info": "082e",
+                    "info": "bbf2",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://2cacf21476b036e319bcb7c7e747766e6ccc082e"
+                    "url": "acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2"
                 },
                 {
                     "name": "LaLiga HyperMotion 5",
-                    "info": "a16a",
+                    "info": "2af0",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://a1146358aa50c99c887108b17f62f9264186a16a"
+                    "url": "acestream://7a6f7c3acc3689c40f2300432723c55d41222af0"
                 },
                 {
                     "name": "LaLiga HyperMotion 6",
-                    "info": "4670",
+                    "info": "f631",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670"
+                    "url": "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631"
                 },
                 {
                     "name": "LaLiga HyperMotion 7",
-                    "info": "d754",
+                    "info": "0f69",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://446e73a22582921393b020ed08b768ad8e14d754"
+                    "url": "acestream://b7e43c2c3887864193578eb57079955c50070f69"
                 },
                 {
                     "name": "LaLiga HyperMotion 8",
-                    "info": "60e2",
+                    "info": "d7b8",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2"
+                    "url": "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8"
                 }
             ]
         },
