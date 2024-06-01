@@ -27,9 +27,9 @@
                 },
                 {
                     "name": "LA 1 UHD [1080][Multiaudio]",
-                    "info": "50af",
+                    "info": "b666",
                     "image": "https://i.ibb.co/swhGnw4/La1.jpg",
-                    "url": "acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af"
+                    "url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
                 },
                 {
                     "name": "LA 2",
