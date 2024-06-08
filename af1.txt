@@ -57,9 +57,9 @@
                 },
                 {
                     "name": "M GOLF 2 [1080]",
-                    "info": "3fd9",
+                    "info": "97a5",
                     "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
-                    "url": "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9"
+                    "url": "acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5"
                 },
                 {
                     "name": "CUATRO TV",
