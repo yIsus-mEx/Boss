@@ -124,28 +124,28 @@
             "info": "",
             "stations": [
                 {
-                    "name": "DAZN LIGA F 1",
-                    "info": "CANAL 1",
+                    "name": "DAZN LIGA FEMENINA 1",
+                    "info": "SIN SE\u00d1AL",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
-                    "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+                    "url": ""
                 },
                 {
-                    "name": "DAZN LIGA F 2",
-                    "info": "CANAL 2",
+                    "name": "DAZN LIGA FEMENINA 2",
+                    "info": "SIN SE\u00d1AL",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
-                    "url": "acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b"
+                    "url": ""
                 },
                 {
-                    "name": "DAZN LIGA F 3",
-                    "info": "CANAL 3",
+                    "name": "DAZN LIGA FEMENINA 3",
+                    "info": "SIN SE\u00d1AL",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
-                    "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+                    "url": ""
                 },
                 {
-                    "name": "DAZN LIGA F 4",
-                    "info": "CANAL 4",
+                    "name": "DAZN LIGA FEMENINA 4",
+                    "info": "SIN SE\u00d1AL",
                     "image": "https://i.postimg.cc/YCZVN6Q6/Canales-Dazn-Liga-F.jpg",
-                    "url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
+                    "url": ""
                 }
             ]
         },
@@ -155,54 +155,6 @@
             "imageScale": "",
             "info": "",
             "stations": [
-                {
-                    "name": "DAZN LaLiga [1080][Multiaudio]",
-                    "info": "290a",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
-                },
-                {
-                    "name": "DAZN LaLiga [1080][Multiaudio]",
-                    "info": "0c96",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
-                },
-                {
-                    "name": "DAZN LaLiga [720p]",
-                    "info": "1914",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
-                },
-                {
-                    "name": "DAZN LaLiga 2 [1080][Multiaudio]",
-                    "info": "4d10",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10"
-                },
-                {
-                    "name": "DAZN LaLiga 2 [720][Multiaudio]",
-                    "info": "0b47",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
-                },
-                {
-                    "name": "DAZN LaLiga 3 [1080][Multiaudio]",
-                    "info": "ba74",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74"
-                },
-                {
-                    "name": "DAZN LaLiga 4 [1080][Multiaudio]",
-                    "info": "973e",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e"
-                },
-                {
-                    "name": "DAZN LaLiga 5 [1080][Multiaudio]",
-                    "info": "edf7",
-                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-                    "url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7"
-                },
                 {
                     "name": "M+ LaLiga Tv [1080]",
                     "info": "2280",
@@ -262,6 +214,54 @@
                     "info": "b51b",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
+                },
+                {
+                    "name": "DAZN LaLiga [1080][Multiaudio]",
+                    "info": "290a",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://1960a9be8ae9e8c755330218eac4c5805466290a"
+                },
+                {
+                    "name": "DAZN LaLiga [1080][Multiaudio]",
+                    "info": "0c96",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://75251ba975132ec9a202806ba5bf606e87280c96"
+                },
+                {
+                    "name": "DAZN LaLiga [720p]",
+                    "info": "1914",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914"
+                },
+                {
+                    "name": "DAZN LaLiga 2 [1080][Multiaudio]",
+                    "info": "4d10",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10"
+                },
+                {
+                    "name": "DAZN LaLiga 2 [720][Multiaudio]",
+                    "info": "0b47",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
+                },
+                {
+                    "name": "DAZN LaLiga 3 [1080][Multiaudio]",
+                    "info": "ba74",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74"
+                },
+                {
+                    "name": "DAZN LaLiga 4 [1080][Multiaudio]",
+                    "info": "973e",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e"
+                },
+                {
+                    "name": "DAZN LaLiga 5 [1080][Multiaudio]",
+                    "info": "edf7",
+                    "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+                    "url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7"
                 },
                 {
                     "name": "LaLiga Tv Bar [720]",
