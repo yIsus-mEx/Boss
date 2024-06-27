@@ -10,7 +10,14 @@
             "name": "TDT CHANNELS",
             "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
             "url": "https://pastebin.com/UWXsWLF9",
-            "info": "",
+            "info": "OPCION 1",
+            "import": false
+        },
+        {
+            "name": "TDT CHANNELS",
+            "image": "https://i.postimg.cc/Tw5q5fjS/TDT-new.png",
+            "url": "https://pastebin.com/raw/SjRYX7GX",
+            "info": "OPCION 2",
             "import": false
         },
         {
@@ -156,64 +163,70 @@
             "info": "",
             "stations": [
                 {
-                    "name": "M+ LaLiga Tv [1080]",
+                    "name": "M LaLiga [1080]",
                     "info": "2280",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
                 },
                 {
-                    "name": "M+ LaLiga Tv [1080][Multiaudio]",
+                    "name": "M LaLiga [1080][Multiaudio]",
                     "info": "b02f",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f"
                 },
                 {
-                    "name": "M+ LaLiga Tv [1080][Multiaudio]",
+                    "name": "M LaLiga [1080][Multiaudio]",
                     "info": "74a5",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
                 },
                 {
-                    "name": "M+ LaLiga Tv [720p]",
+                    "name": "M LaLiga [720p]",
                     "info": "08d8",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://f031f5728b32f6089dda28edebe990cf198108d8"
                 },
                 {
-                    "name": "M+ LaLiga Tv 2 [1080]",
+                    "name": "M LaLiga 2 [1080]",
                     "info": "05bc",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://26029f72a4ca831d09deefe89534818db1d105bc"
                 },
                 {
-                    "name": "M+ LaLiga Tv 2 [720p]",
+                    "name": "M LaLiga 2 [720p]",
                     "info": "56a0",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0"
                 },
                 {
-                    "name": "M+ LaLiga Tv 3 [1080]",
+                    "name": "M LaLiga 3 [1080]",
                     "info": "f929",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://4c4844564313e39a888f593511f299f5ba3cf929"
                 },
                 {
-                    "name": "M+ LaLiga Tv 4 [1080]",
+                    "name": "M LaLiga 4 [1080]",
                     "info": "a8b0",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0"
                 },
                 {
-                    "name": "M+ LaLiga Tv 5 [1080]",
+                    "name": "M LaLiga 5 [1080]",
                     "info": "70b2",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2"
                 },
                 {
-                    "name": "M+ LaLiga Tv 6 [1080]",
+                    "name": "M LaLiga 6 [1080]",
                     "info": "b51b",
                     "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
                     "url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
+                },
+                {
+                    "name": "LaLiga BAR [720]",
+                    "info": "2280",
+                    "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+                    "url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
                 },
                 {
                     "name": "DAZN LaLiga [1080][Multiaudio]",
@@ -262,50 +275,6 @@
                     "info": "edf7",
                     "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
                     "url": "acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7"
-                },
-                {
-                    "name": "LaLiga Tv Bar [720]",
-                    "info": "74a5",
-                    "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-                    "url": "acestream://1969c27658d4c8333ab2c0670802546121a774a5"
-                }
-            ]
-        },
-        {
-            "name": "COPA DEL REY ESPA\u00d1A 2024",
-            "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-            "imageScale": "",
-            "info": "",
-            "stations": [
-                {
-                    "name": "COPA DEL REY 1 (1080)",
-                    "info": "528d",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
-                },
-                {
-                    "name": "COPA DEL REY PLUS (1080)",
-                    "info": "496e",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
-                },
-                {
-                    "name": "COPA DEL REY (1080)(MULTIAUDIO)",
-                    "info": "d281",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
-                },
-                {
-                    "name": "COPA DEL REY (1080)",
-                    "info": "443d",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
-                },
-                {
-                    "name": "COPA DEL REY (720)",
-                    "info": "1a03",
-                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-                    "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
                 }
             ]
         },
@@ -354,24 +323,100 @@
                     "info": "2af0",
                     "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
                     "url": "acestream://7a6f7c3acc3689c40f2300432723c55d41222af0"
+                }
+            ]
+        },
+        {
+            "name": "COPA DEL REY ESPA\u00d1A",
+            "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+            "imageScale": "",
+            "info": "",
+            "stations": [
+                {
+                    "name": "COPA DEL REY 1 (1080)",
+                    "info": "528d",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
                 },
                 {
-                    "name": "LaLiga HyperMotion 6",
-                    "info": "f631",
-                    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631"
+                    "name": "COPA DEL REY PLUS (1080)",
+                    "info": "496e",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
                 },
                 {
-                    "name": "LaLiga HyperMotion 7",
-                    "info": "0f69",
-                    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://b7e43c2c3887864193578eb57079955c50070f69"
+                    "name": "COPA DEL REY (1080)(MULTIAUDIO)",
+                    "info": "d281",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
                 },
                 {
-                    "name": "LaLiga HyperMotion 8",
-                    "info": "d7b8",
-                    "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-                    "url": "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8"
+                    "name": "COPA DEL REY (1080)",
+                    "info": "443d",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
+                },
+                {
+                    "name": "COPA DEL REY (720)",
+                    "info": "1a03",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
+                }
+            ]
+        },
+        {
+            "name": "M DEPORTES",
+            "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
+            "imageScale": "",
+            "info": "",
+            "stations": [
+                {
+                    "name": "M Deportes [1080]",
+                    "info": "c112",
+                    "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+                    "url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"
+                },
+                {
+                    "name": "M Deportes [720]",
+                    "info": "501c",
+                    "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+                    "url": "acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c"
+                },
+                {
+                    "name": "M Deportes 2 [1080]",
+                    "info": "d917",
+                    "image": "https://i.postimg.cc/SNbF0tRZ/Deportes-por-Movistar-2-2022-logo.png",
+                    "url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
+                },
+                {
+                    "name": "M Deportes 3 [1080]",
+                    "info": "2a9a",
+                    "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
+                    "url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
+                },
+                {
+                    "name": "M Deportes 4 [1080]",
+                    "info": "b6f5",
+                    "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
+                    "url": "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
+                },
+                {
+                    "name": "M Deportes 5 [1080]",
+                    "info": "92e3",
+                    "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+                    "url": "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
+                },
+                {
+                    "name": "M Deportes 6 [1080]",
+                    "info": "d4ce",
+                    "image": "https://i.postimg.cc/4xPv2m2P/Deportes-por-Movistar-6-2022-logo.png",
+                    "url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
+                },
+                {
+                    "name": "M Deportes 7 [1080]",
+                    "info": "9a78",
+                    "image": "https://i.postimg.cc/9ffFRX6g/Deportes-por-Movistar-8-2022-logo.png",
+                    "url": "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
                 }
             ]
         },
@@ -488,68 +533,6 @@
                     "info": "053b",
                     "image": "https://i.postimg.cc/SQ2B3DHp/Liga-de-Campeones-11-por-Movistar-Plus-2022-logo.png",
                     "url": "acestream://60296c246e3596f334903fefd48cfaa724a5053b"
-                },
-                {
-                    "name": "M. Liga de Campeones 17 SD",
-                    "info": "053b",
-                    "image": "https://i.postimg.cc/SQ2B3DHp/Liga-de-Campeones-11-por-Movistar-Plus-2022-logo.png",
-                    "url": "acestream://60296c246e3596f334903fefd48cfaa724a5053b"
-                }
-            ]
-        },
-        {
-            "name": "M DEPORTES",
-            "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
-            "imageScale": "",
-            "info": "",
-            "stations": [
-                {
-                    "name": "M Deportes [1080]",
-                    "info": "c112",
-                    "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-                    "url": "acestream://d00223931b1854163e24c5c22475015d7d45c112"
-                },
-                {
-                    "name": "M Deportes [720]",
-                    "info": "501c",
-                    "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
-                    "url": "acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c"
-                },
-                {
-                    "name": "M Deportes 2 [1080]",
-                    "info": "d917",
-                    "image": "https://i.postimg.cc/SNbF0tRZ/Deportes-por-Movistar-2-2022-logo.png",
-                    "url": "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917"
-                },
-                {
-                    "name": "M Deportes 3 [1080]",
-                    "info": "2a9a",
-                    "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
-                    "url": "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a"
-                },
-                {
-                    "name": "M Deportes 4 [1080]",
-                    "info": "b6f5",
-                    "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
-                    "url": "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5"
-                },
-                {
-                    "name": "M Deportes 5 [1080]",
-                    "info": "92e3",
-                    "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
-                    "url": "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3"
-                },
-                {
-                    "name": "M Deportes 6 [1080]",
-                    "info": "d4ce",
-                    "image": "https://i.postimg.cc/4xPv2m2P/Deportes-por-Movistar-6-2022-logo.png",
-                    "url": "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce"
-                },
-                {
-                    "name": "M Deportes 7 [1080]",
-                    "info": "9a78",
-                    "image": "https://i.postimg.cc/9ffFRX6g/Deportes-por-Movistar-8-2022-logo.png",
-                    "url": "acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78"
                 }
             ]
         },
@@ -604,10 +587,10 @@
             "info": "",
             "stations": [
                 {
-                    "name": "DAZN F1 [UHD]",
-                    "info": "4041",
+                    "name": "DAZN F1 [MULTICAMARA]",
+                    "info": "346e",
                     "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-                    "url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
+                    "url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
                 },
                 {
                     "name": "DAZN F1 [1080]",
@@ -630,25 +613,17 @@
             ]
         },
         {
-            "name": "TENNIS CHANNEL",
-            "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
-            "imageScale": "",
-            "info": "",
-            "stations": [
-                {
-                    "name": "Tennis Channel",
-                    "info": "2e36",
-                    "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-                    "url": "acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36"
-                }
-            ]
-        },
-        {
             "name": "EUROSPORT",
             "image": "https://i.postimg.cc/W12JpHqR/logo-eurosport.png",
             "imageScale": "",
             "info": "",
             "stations": [
+                {
+                    "name": "EuroSport 4K",
+                    "info": "8c28",
+                    "image": "https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png",
+                    "url": "acestream://c525471499b936decc037ea86e0f8125ebf78c28"
+                },
                 {
                     "name": "EuroSport 1 [1080]",
                     "info": "b952",
@@ -660,6 +635,20 @@
                     "info": "0c29",
                     "image": "https://i.postimg.cc/PxH32mh2/eurosport2-new.png",
                     "url": "acestream://c373da9e901d414b7384e671112e64d5a2310c29"
+                }
+            ]
+        },
+        {
+            "name": "TENNIS CHANNEL",
+            "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
+            "imageScale": "",
+            "info": "",
+            "stations": [
+                {
+                    "name": "Tennis Channel",
+                    "info": "2e36",
+                    "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
+                    "url": "acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36"
                 }
             ]
         },
@@ -690,7 +679,7 @@
             "info": "",
             "stations": [
                 {
-                    "name": "Sport Tv 1 [1080p]",
+                    "name": "Sport Tv 1 [1080]",
                     "info": "06de",
                     "image": "https://i.postimg.cc/cLP044Gf/Sport-TV-1-logo.png",
                     "url": "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de"
