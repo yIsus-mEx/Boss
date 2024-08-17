@@ -4,7 +4,7 @@ import json
 def importYisus():
 
     try:
-        response = requests.get('https://pastebin.com/raw/36jGppfm')
+        response = requests.get('https://pastebin.com/URjXFJT1')
         response.raise_for_status()
         yisus_dict = response.json()
         print('importYisus: OK: yisus se ha importado')
