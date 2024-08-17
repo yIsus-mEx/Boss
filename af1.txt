@@ -32,7 +32,7 @@
 			},
 			{
 			"name": "LA 1 UHD [1080][Multiaudio]",
-			"info":"50af",
+			"info":"b666",
 			"image": "https://i.ibb.co/swhGnw4/La1.jpg",
 			"url": "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
 			},
@@ -380,19 +380,19 @@
 			"name": "LaLiga HyperMotion 6",
 			"info": "4670",
 			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://7a9bb1b9cccb759c44ed84f3c1283922e6854670"
+			"url": "acestream://5bd78125bd1e98c3f49e98910ed15e39d0b9f631"
 			},
 			{
 			"name": "LaLiga HyperMotion 7",
 			"info": "d754",
 			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://446e73a22582921393b020ed08b768ad8e14d754"
+			"url": "acestream://b7e43c2c3887864193578eb57079955c50070f69"
 			},
 			{
 			"name": "LaLiga HyperMotion 8",
 			"info": "60e2",
 			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-			"url": "acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2"
+			"url": "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8"
 			}
 		]
 	},
@@ -635,10 +635,10 @@
 	"stations":
 		[
 			{
-			"name": "DAZN F1 [UHD]",
-			"info": "4041",
+			"name": "DAZN F1 Multicamara [UHD]",
+			"info": "346e",
 			"image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
-			"url": "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041"
+			"url": "acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e"
 			},
 			{
 			"name": "DAZN F1 [1080]",
@@ -670,9 +670,9 @@
 		[
 			{
 			"name": "Tennis Channel",
-			"info":"df83",
+			"info":"2e36",
 			"image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
-			"url": "acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83"
+			"url": "acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36"
 			}
 		]
 	},
