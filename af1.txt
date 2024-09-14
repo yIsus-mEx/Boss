@@ -122,6 +122,12 @@
 	"stations":
 		[
 		{
+		"name": "LaLiga Tv Bar [1080]",
+		"info":"2280",
+		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+		"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
+		},
+		{
 		"name": "DAZN LaLiga [1080][Multiaudio]",
 		"info": "290a",
 		"image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
@@ -234,53 +240,7 @@
 		"info": "b51b",
 		"image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
 		"url": "acestream://c896d37778f9e43549a788fc22206a655895b51b"
-		},
-		{
-		"name": "LaLiga Tv Bar [1080]",
-		"info":"2280",
-		"image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
-		"url": "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280"
 		}
-		]
-	},
-
-	{
-	"name": "COPA DEL REY ESPAÑA 2024",
-	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-	"imageScale": "",
-	"info":"",
-	"stations":
-		[
-			{
-			"name": "COPA DEL REY 1 (1080)",
-			"info": "528d",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
-			},
-			{
-			"name": "COPA DEL REY PLUS (1080)",
-			"info": "496e",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
-			},
-			{
-			"name": "COPA DEL REY (1080)(MULTIAUDIO)",
-			"info": "d281",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
-			},
-			{
-			"name": "COPA DEL REY (1080)",
-			"info": "443d",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
-			},
-			{
-			"name": "COPA DEL REY (720)",
-			"info": "1a03",
-			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
-			"url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
-			}
 		]
 	},
 
@@ -348,6 +308,46 @@
 			"info": "60e2",
 			"image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
 			"url": "acestream://11c89343be863cf2a69b3973747c629d9e79d7b8"
+			}
+		]
+	},
+
+	{
+	"name": "COPA DEL REY ESPAÑA 2024",
+	"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+	"imageScale": "",
+	"info":"",
+	"stations":
+		[
+			{
+			"name": "COPA DEL REY 1 (1080)",
+			"info": "528d",
+			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+			"url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
+			},
+			{
+			"name": "COPA DEL REY PLUS (1080)",
+			"info": "496e",
+			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+			"url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+			},
+			{
+			"name": "COPA DEL REY (1080)(MULTIAUDIO)",
+			"info": "d281",
+			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+			"url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
+			},
+			{
+			"name": "COPA DEL REY (1080)",
+			"info": "443d",
+			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+			"url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
+			},
+			{
+			"name": "COPA DEL REY (720)",
+			"info": "1a03",
+			"image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+			"url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
 			}
 		]
 	},
